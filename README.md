@@ -1,3 +1,6 @@
+# win11-fix-wifi
+修复 Windows11 重启后 WiFi 消失且无法使用的工具。
+
 # Windows 11 Wi-Fi 修复工具（支持开机自动修复）
 
 这个工具用于修复以下常见问题：
